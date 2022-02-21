@@ -1,7 +1,1 @@
-{
- "name":"Cardano ERP",
- "ticker":"CERP",
- "description":"Cardano ERP stakepool is focused on building an open-source, robust, ERP solution with the Cardano blockchain as its backend.  Read the Vision Paper posted to the website.  You can support this effort by delegating to this stakepool today.  Ticker: CERP",
- "homepage":"https://cerp.dev",
- "nonce":"1645204074" 
-}
+{"name":"Cardano ERP","ticker":"CERP","description":"Cardano ERP stakepool is focused on building an open-source, robust, Tier 3 ERP solution with the Cardano blockchain as its backend.  Read the Vision Paper posted to the website.  You can support this effort by delegating to this stakepool today.  Ticker: CERP","homepage":"https://cerp.dev","nonce":"1645204074"}
