@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/CERP-Team/m/raw/main/CERP-icon.png",
-        "url_png_logo": "https://github.com/CERP-Team/m/raw/main/CERP-logo.png",
+        "url_png_icon_64x64": "https://github.com/CERP-Team/m/raw/main/logo.png",
+        "url_png_logo": "https://github.com/CERP-Team/m/raw/main/logo.png",
         "location": "",
         "social": {
             "twitter_handle": "CerpOfficial",
@@ -23,7 +23,7 @@
         "about": {
             "me": "",
             "server": "Bare metal, locally hosted. SuperMicro X8DTT-F twin node server 192 GB RAM, Xeon E5645 x 2, 2.4 GHz, 24 cores total, 1 TB WD Black SN750 NVMe x 2, RAID1, 2TB WD RED x 4 RAID10, Samsung 256 GB 870 SSDs, RAID1",
-            "company": "CERP is an effort, not an entity"
+            "company": ""
         }
     }
 }
