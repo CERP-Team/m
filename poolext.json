@@ -5,25 +5,25 @@
         "location": "",
         "social": {
             "twitter_handle": "CerpOfficial",
-            "telegram_handle": "",
+            "telegram_handle": "CerpOfficial",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "Jay[CERP]#4037",
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "Clean Energy & Recycling Partnership (CERP)",
             "addr": "",
             "city": "",
-            "country": "",
+            "country": "Thailand",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "",
-            "server": "Bare metal, locally hosted. SuperMicro X8DTT-F twin node server 192 GB RAM, Xeon E5645 x 2, 2.4 GHz, 24 cores total, 1 TB WD Black SN750 NVMe x 2, RAID1, 2TB WD RED x 4 RAID10, Samsung 256 GB 870 SSDs, RAID1",
-            "company": ""
+            "server": "We rescue and refurbished datacenter spec servers, saving them from polluting landfills.",
+            "company": "Clean Energy & Recycling Partnership (CERP)"
         }
     }
 }
